@@ -1,5 +1,8 @@
 ### 🍎📱💻
 
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wargi&show_icons=true&theme=vue)
 
 <!--
