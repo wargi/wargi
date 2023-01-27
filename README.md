@@ -1,7 +1,8 @@
 ### 🍎📱💻
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
+![Gmail](https://img.shields.io/badge/wkahdla12346@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wargi&show_icons=true&theme=vue)
 
